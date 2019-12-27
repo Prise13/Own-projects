@@ -1,0 +1,6 @@
+﻿  4 symbols bruteforce.cpp
+C:\Users\User\source\repos\4 symbols bruteforce\4 symbols bruteforce\4 symbols bruteforce.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\4 symbols bruteforce\4 symbols bruteforce\4 symbols bruteforce.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\4 symbols bruteforce\4 symbols bruteforce\4 symbols bruteforce.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\4 symbols bruteforce\4 symbols bruteforce\4 symbols bruteforce.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+  4 symbols bruteforce.vcxproj -> C:\Users\User\source\repos\4 symbols bruteforce\Debug\4 symbols bruteforce.exe
